@@ -1,5 +1,7 @@
 # Employee Management System
 
+[![Watch the demo](https://github.com/rdeswal/employee-management-system/demo/demo.png)](https://github.com/rdeswal/employee-management-system/demo/Screen-Recording.mp4)
+
 ## Project Overview
 
 Full-stack Employee Management Application with React frontend and Node.js/Express backend.
