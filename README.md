@@ -1,6 +1,6 @@
 # Employee Management System
 
-[![Watch the demo](https://github.com/rdeswal/employee-management-system/demo/demo.png)](https://github.com/rdeswal/employee-management-system/demo/Screen-Recording.mp4)
+[![Watch the demo](https://github.com/rdeswal/employee-management-system/blob/main/demo/demo.png)](https://github.com/rdeswal/employee-management-system/blob/main/demo/Screen-Recording.mp4)
 
 ## Project Overview
 
